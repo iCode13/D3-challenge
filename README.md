@@ -40,4 +40,4 @@ The interactive scatter plots reveal the following:
 * Live Server
 
 ## Contact
-Created by [@iCode13] - please feel free to contact me in case of questions!
+Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me in case of questions!
