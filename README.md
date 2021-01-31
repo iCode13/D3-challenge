@@ -1,5 +1,5 @@
 # **D3 Challenge**
-> This project uses D3 to visualize the current trends shaping people's lives, and to help readers understand the findings, simulating a journalism article.
+This project uses D3 to visualize the current trends shaping people's lives, and to help readers understand the findings, simulating a journalism article.
 Data for this study is sourced from the U.S. Census Bureau and Behaviorial Risk Factor Surveillance System, revealing how health markers like obesity, smoking, and lack of healthcare vary in relation to poverty, age and household income for the US states in 2014.
 
 ## **Analysis**
