@@ -4,9 +4,9 @@ Data for this study is sourced from the U.S. Census Bureau and Behaviorial Risk 
 
 ## **Analysis**
 The interactive scatter plots reveal the following:
-1. An overall positive correlation exists between poverty and the three health risk factors. With increase in poverty, percentages of obese and smokers are higher, and there is lesser access to healthcare.
-2. No correlation is seen between age and obesity, as well as smoking. However, there seems to be a negative correlation between age and lack of healthcare, meaning people have increased access to healthcare as they age.
-3. An overall positive correlation exists between household income and the three health risk factors. As household income rises, percentages of obese and smokers are lower, and there is greater access to healthcare.
+* An overall positive correlation exists between poverty and the three health risk factors. With increase in poverty, percentages of obese and smokers are higher, and there is lesser access to healthcare.
+* No correlation is seen between age and obesity, as well as smoking. However, there seems to be a negative correlation between age and lack of healthcare, meaning people have increased access to healthcare as they age.
+* An overall positive correlation exists between household income and the three health risk factors. As household income rises, percentages of obese and smokers are lower, and there is greater access to healthcare.
 
 ## **Screenshots**
 
@@ -40,4 +40,4 @@ The interactive scatter plots reveal the following:
 * Live Server
 
 ## Contact
-Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me in case of questions!
+Created by [@iCode13](https://github.com/iCode13) - please contact with questions/comments.
